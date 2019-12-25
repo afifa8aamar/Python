@@ -1,0 +1,4 @@
+https://sqlitebrowser.org/dl/
+
+
+DB Browser for SQLite
